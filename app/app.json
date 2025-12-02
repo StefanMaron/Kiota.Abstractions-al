@@ -21,8 +21,8 @@
       "publisher": "SimonOfHH"
     }
   ],
-  "application": "25.0.0.0",
-  "platform": "25.0.0.0",
+  "application": "26.5.0.0",
+  "platform": "26.5.0.0",
   "idRanges": [
     {
       "from": 87100,
@@ -33,7 +33,7 @@
     "TranslationFile",
     "NoImplicitWith"
   ],
-  "runtime": "14.0",
+  "runtime": "15.2",
   "target": "Cloud",
   "supportedLocales": [
     "en-US"
